@@ -73,7 +73,7 @@
 
 .main h2{
     margin: 16px 0;
-    font-size: 39px;
+    font-size: 30px;
 
 }
 
@@ -85,11 +85,15 @@
 
 @media (max-width: 620px){
     .title{
-        font-size: 60px;
+        font-size: 45px;
     }
 
     .main h2{
-        font-size: 28px;
+        font-size: 25px;
+    }
+
+    .main span{
+        font-size: 15px;
     }
 
     .main{
