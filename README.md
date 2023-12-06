@@ -5,8 +5,8 @@ Este é um projeto simples em React que permite aos usuários buscar informaçõ
 O projeto utiliza a API gratuita do ViaCEP para obter os detalhes do endereço associado a um determinado CEP.
 
 ## Funcionalidades
-Busca de CEP: Os usuários podem inserir um CEP na barra de busca.  
-Exibição de Informações: O projeto exibe informações detalhadas sobre o endereço associado ao CEP, incluindo logradouro, bairro, cidade e estado.
+**Busca de CEP:** Os usuários podem inserir um CEP na barra de busca.  
+**Exibição de Informações:** O projeto exibe informações detalhadas sobre o endereço associado ao CEP, incluindo logradouro, bairro, cidade e estado.
 
 ## Tecnologias Utilizadas
 **React:** A biblioteca JavaScript para construção da interface do usuário.  
@@ -19,7 +19,7 @@ Para fazer isso você pode usar o comando `node -v`
 
 ## Instalação
 Clone este repositório: `git clone https://github.com/seu-usuario/react-busca-cep-viacep.git`  
-Navegue até o diretório do projeto: `cd react-busca-cep-viacep`
+Navegue até o diretório do projeto: `cd react-busca-cep-viacep`  
 Instale as dependências: `npm install`  
 
 ## Configuração
